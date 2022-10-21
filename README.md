@@ -30,8 +30,8 @@ Quitely optimizes not only the game but your connection stability threw many mod
 | F3 up 90 - 110  | F3 up 400 - 600  | 300 - 400 |
 
 ### Network optimizations
-|Vanilla  | Qo V12+ | Unnamed modpack |
-|--------|--------|--------|-------|
+| Vanilla | Qo V12+ | Unnamed modpack |
+| ------------- | ------------- | ------------- |
 | Unheard of | Yes | No |
 
 > All done on same settings.
