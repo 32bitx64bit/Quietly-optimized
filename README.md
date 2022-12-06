@@ -38,12 +38,4 @@ Quitely optimizes not only the game but your connection stability threw many mod
 
 12 chunks, unlimited FPS, fancy settings, biome blend. (rest left on default as installed.)
 
-## Announcement if you use PolyMC.
-
-### Poly MC its self isn't compromised, the developer banned all the project maintainers for "political views".
-
-### PolyMC is safe to use just make sure to change your metadata server to multiMC or some other meta server you trust.
-
-### I would recommend switching from PolyMC to Prism Launcher (A fork made by the old developers who where banned.) 
-
-Link https://discord.gg/vFxUpXsfhA
+Apperiate the false ban Prism, the mods totally aren't biased ;D
