@@ -4,7 +4,7 @@
 
 Qo (Quietly optimized) is a performance pack focusing on performance with Quality of life mods you deserve 
 ## Qo has
-> Performance increases (Up to 900% over vanilla)
+> Performance increases (Up to 500% over vanilla)
 
 > Network stability improvements (Makes playing on servers way more stable)
 
